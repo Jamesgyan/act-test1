@@ -1,1 +1,1 @@
-print("this test case o1*****")
+print("this tests case o1*****")
